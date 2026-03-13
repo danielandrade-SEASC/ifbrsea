@@ -7,6 +7,11 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+
+    "engines": {
+        "node": "18.x"
+      },
+  
   "dependencies": {
     "@mdi/font": "^3.9.97",
     "@vue/cli": "^5.0.8",
