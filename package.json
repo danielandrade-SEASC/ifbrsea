@@ -6,12 +6,10 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
-  },
-
     "engines": {
         "node": "18.x"
-      },
-  
+      }
+  },
   "dependencies": {
     "@mdi/font": "^3.9.97",
     "@vue/cli": "^5.0.8",
@@ -30,7 +28,7 @@
     "@vue/cli-plugin-eslint": "^4.5.13",
     "@vue/cli-plugin-router": "^4.5.13",
     "@vue/cli-plugin-vuex": "^4.5.13",
-    "@vue/cli-service": "^5.0.8",
+    "@vue/cli-service": "^4.5.13",
     "@vue/eslint-config-prettier": "^5.1.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^5.16.0",
