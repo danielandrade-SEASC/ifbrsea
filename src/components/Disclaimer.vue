@@ -36,6 +36,10 @@
             Nosso contato & seus direitos:
             <ul>
               <li>
+                Nosso contato:
+                <a href="mailto:ifbra@outlook.com">teste</a>
+              </li>
+              <li>
                 Você tem o direito de não fornecer dados pessoais, seja em razão
                 da navegação ou em razão do preenchimento de dados sensíveis,
                 necessários para calcular o IFBr-A.
