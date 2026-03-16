@@ -52,10 +52,12 @@
           `
         "
       >
-        <span class="right-pad">Adaptado do projeto desenvolvido por</span>
+        <span class="right-pad">Projeto desenvolvido por</span>
         <a href="https://www.linkedin.com/in/hugo-virgilio/">
           Hugo Virgílio&nbsp;
         </a>
+        <span class="right-pad">Adaptado por Daniel de Andrade para projeto DSAS/SEA</span>
+
 
       </v-card>
       <v-card
