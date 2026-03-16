@@ -9,6 +9,6 @@ export default {
   components: {
     Disclaimer: () => import("@/components/Disclaimer")
   }
- 
+
 };
 </script>
