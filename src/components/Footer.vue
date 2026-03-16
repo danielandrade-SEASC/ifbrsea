@@ -52,13 +52,11 @@
           `
         "
       >
-        <span class="right-pad">Desenvolvido por</span>
+        <span class="right-pad">Adaptado do projeto desenvolvido por</span>
         <a href="https://www.linkedin.com/in/hugo-virgilio/">
           Hugo Virgílio&nbsp;
         </a>
-        <a href="https://www.linkedin.com/in/hugo-virgilio/">
-          <v-icon dense>mdi-linkedin-box</v-icon>
-        </a>
+
       </v-card>
       <v-card
         height="3rem"

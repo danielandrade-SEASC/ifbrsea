@@ -89,7 +89,7 @@ export default {
       ["Formulários", "/"],
       ["Informações", "info"],
       ["Privacidade", "lgpd"],
-      ["Contribua", "apoio"]
+
     ],
     width: 0
   }),
