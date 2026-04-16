@@ -22,7 +22,8 @@
     "vue-router": "^3.5.1",
     "vuetify": "^2.6.10",
     "vuetify-loader": "^1.7.2",
-    "vuex": "^3.6.2"
+    "vuex": "^3.6.2",
+    "@prisma/client": "x.x.x"
   },
   "devDependencies": {
     "@babel/polyfill": "^7.12.1",
@@ -40,7 +41,8 @@
     "sass-loader": "^8.0.2",
     "serve": "^14.1.2",
     "vue-cli-plugin-vuetify": "^2.4.1",
-    "vue-template-compiler": "^2.6.13"
+    "vue-template-compiler": "^2.6.13",
+    "prisma": "x.x.x"
   },
   "eslintConfig": {
     "root": true,
